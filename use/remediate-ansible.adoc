@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-ansible.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Sie können Sicherheitsrisiken überprüfen und ein Ansible-Playbook herunterladen, das Sie befolgen können, um das Problem zu beheben. 
+---
+= Optimieren mit einem Ansible Playbook
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Sie können Sicherheitsrisiken überprüfen und ein Ansible-Playbook herunterladen, das Sie befolgen können, um das Problem zu beheben.
+
+Sie können ein Ansible-Playbook herunterladen, ein Open-Source-Implementierungssystem, mit dem Sie Konfigurationsaufgaben ausführen können. Zur Verwendung von Ansible führen Sie einfach die Playbook-Datei aus, die die im gleichen Verzeichnis gespeicherten Inventar- und Hilfsdateien verwendet.
+
+.Was Sie benötigen
+Zur Ausführung von Ansible-Playbooks muss das System über das Netzwerk auf die Cluster-IP zugreifen können.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Health* > *Operational Resiliency* > *Risk Remediation*.
+. Sortieren Sie in der Liste der Risiken nach der Spalte „Auswirkungsstufe“, um zuerst die höchsten Risiken anzuzeigen.
+. Wählen Sie das Risiko aus und wählen Sie *Risiko beheben*.
+. Um ein Ansible-Playbook herunterzuladen, mit dem Sie das Problem selbst beheben, wählen Sie *Download* aus.
++
+Der Service installiert das Ansible-Playbook auf Ihren lokalen Maschinen an einem Ort, den Sie wählen. Das Playbook wird als ZIP-Datei heruntergeladen, die mehrere YML-Dateien enthält.
+
+. Suchen Sie das Ansible Playbook im Download-Ordner.
+. Führen Sie das Ansible Playbook aus:
++
+[listing]
+----
+$ ansible-playbook <playbook.yml>
+----
++
+Eine Anleitung zur Verwendung eines Ansible-Playbook finden Sie im https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html["Ansible-Dokumentation"^].
+
+. Folgen Sie den Anweisungen im Playbook.
+

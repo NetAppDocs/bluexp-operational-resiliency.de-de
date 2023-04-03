@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Wenn Sie die Option „Korrektur beheben“ ausgewählt haben, kann der Dienst die Korrektur für Sie implementieren. 
+---
+= Beheben Sie das Problem automatisch
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Wenn Sie die Option *Korrigieren* ausgewählt haben, kann der Dienst die Korrektur für Sie implementieren.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Health* > *Operational Resiliency* > *Risk Remediation*.
+. Sortieren Sie auf der Seite „Risikobeseitigung“ nach der Spalte „Auswirkungsstufe“, um zuerst die höchsten Risiken anzuzeigen.
+. Wählen Sie das Risiko aus und wählen Sie *Risiko beheben*.
+. Wählen Sie für jeden Cluster *Korrigieren* aus.
++
+Je nach Problem werden Anweisungen angezeigt. Einige Optionen auf dieser Seite werden nicht angezeigt, wenn ein BlueXP Connector vorhanden ist oder ein Cluster bekannt ist.
+
++
+** Wenn ein Connector nicht vorhanden ist oder noch nicht aktiviert ist, zeigt der Dienst die Seite Connector erstellen an, auf der Sie den Connector erstellen können. Wenn der Connector vorhanden, aber nicht aktiv ist, müssen Sie ihn im Cloud-Provider-Dienst aktivieren.
++
+Weitere Informationen finden Sie in der BlueXP Dokumentation, die hier beschrieben wird https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"].
+
+** Wenn kein Cluster vorhanden ist, zeigt der Service eine Seite an, auf der Sie das Cluster identifizieren.
++
+Weitere Informationen finden Sie in der BlueXP Dokumentation https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Identifikation des Clusters"].
+
+
+
+. Nachdem der Connector bereitgestellt und das Cluster erkannt wurde, überprüfen Sie die Problembehebung.
++
+Wenn Sie die Option *Korrigieren* ausgewählt haben, damit der Service die Korrektur für Sie implementiert, wird die Seite erforderliche Korrektur überprüfen und ausführen angezeigt.
+
+. Überprüfen Sie das Risiko und andere Informationen.
+. Wählen Sie *Ausführen*.
++
+Mit dieser Aktion wird der Connector bereitgestellt (falls noch nicht geschehen), der Cluster ermittelt, die Korrektur heruntergeladen und die Korrektur automatisch auf dem ausgewählten Cluster implementiert.
+
+. Um den Status der Korrektur zur Problembehebung anzuzeigen, notieren Sie den Cluster-Namen auf der Seite „Status des Korrekturmaßnahmen“.
+

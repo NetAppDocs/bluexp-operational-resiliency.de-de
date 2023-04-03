@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
+summary: Einstieg in den NetApp BlueXP Operational Resiliency-Service in nur wenigen Schritten 
+---
+= Schnellstart für den Service Operational Resiliency
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Hier erhalten Sie einen Überblick über die Schritte, die für den Einstieg in den NetApp BlueXP Operational Resiliency Service erforderlich sind. Die Links in den einzelnen Schritten führen zu einer Seite, die weitere Details enthält.
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Eins"] Voraussetzungen prüfen
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt"^].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Zwei"] Richten Sie den Operational Resiliency Service ein
+[role="quick-margin-para"]
+link:../get-started/setup.html["Führen Sie die Schritte zum Einrichten des Dienstes aus"^].
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Drittens"] Was kommt als Nächstes?
+[role="quick-margin-para"]
+Nachdem Sie den Service eingerichtet haben, können Sie folgende Schritte als Nächstes Unternehmen.
+
+[role="quick-margin-list"]
+* link:../use/remediate-overview.html["Überprüfung und Behebung von Sicherheitsrisiken"^].
+* link:../use/remediate-auto.html["Automatische Korrektur"^].
+* link:../use/remediate-ansible.html["Abhilfe mit einem Ansible-Playbook"^].
+* link:../use/remediate-status.html["Ermitteln Sie den Status der Risikoeindämmung"^].
+

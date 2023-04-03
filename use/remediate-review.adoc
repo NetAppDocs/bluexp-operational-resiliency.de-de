@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-review.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Der Service zur Risikoeindämmung identifiziert Sicherheitsrisiken in Ihrem lokalen ONTAP-Cluster. 
+---
+= Überprüfen Sie Sicherheitsrisiken
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Der Service zur Risikoeindämmung identifiziert Sicherheitsrisiken in Ihrem lokalen ONTAP-Cluster.
+
+Zur Risikoüberprüfung und zur automatisierten Problembehebung gehören die folgenden Prozesse:
+
+* Connector in BlueXP erstellen (falls noch keiner für den Service zur Risikoeindämmung vorhanden ist).
+* Ermitteln Sie den Cluster (falls für den Service noch kein Cluster vorhanden ist).
+* Führen Sie die Problembehebung aus, oder laden Sie ein Ansible-Playbook herunter.
+* Zeigen Sie den Status der Problembehebung an.
+
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Health* > *Operational Resiliency* > *Risk Remediation*.
+. Sortieren Sie in der Liste der Risiken nach der Spalte „Auswirkungsstufe“, um zuerst die höchsten Risiken anzuzeigen.
+. Wählen Sie das Risiko aus, und sehen Sie weitere Details.
+. Wählen Sie *Risiko beheben*.
+. Führen Sie einen der folgenden Schritte aus:
++
+** Wählen Sie für jeden Cluster *Korrigieren* aus.
++
+Diese Aktion führt dazu, dass das Problem automatisch behoben wird (nachdem Sie *Ausführen* ausgewählt haben, um die Problembehebung zu starten). Weiter mit link:../use/remediate-auto.html["Automatische Behebung von Risikoproblemen"].
+
+** Um das Problem selbst mit einem Ansible-Playbook zu beheben, wählen Sie *Download*. Weiter mit link:../use/remediate-ansible.html["Behebung von Risikoproblemen mit einem Ansible-Playbook"].
+
+
+

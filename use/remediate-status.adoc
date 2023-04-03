@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-status.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: Sie können den Status einer Korrektur jederzeit überprüfen. Sie sehen, ob die Ausführung, der Abschluss oder das Fehlschlagen abgeschlossen sind. 
+---
+= Überprüfen Sie den Status der Problembehebung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Sie können den Status einer Korrektur jederzeit überprüfen. Sie sehen, ob die Ausführung, der Abschluss oder das Fehlschlagen abgeschlossen sind.
+
+.Schritte
+. Wählen Sie in der linken Navigationsleiste von BlueXP *Health* > *Operational Resiliency* > *Remediation Status* aus.
++
+Die Seite „Status der Fehlerbehebung“ wird angezeigt.
+
+. Um Details zu einem Problem anzuzeigen, wählen Sie das Problem aus, um es zu erweitern.
+

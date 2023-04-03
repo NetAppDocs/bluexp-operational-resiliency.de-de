@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
+summary: Operational Resiliency ist eine Kategorie von Services, die Sie bei der Analyse von Warnungen und Ereignissen unterstützen, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service zur Risikoeindämmung der Operational Resiliency und der automatisierten IT-Vorschläge zur operativen Fehlerbehebung können Sie Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt. 
+---
+= Informieren Sie sich über den Operational Resiliency Service
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+Operational Resiliency ist eine Kategorie von Services, die Sie bei der Analyse von Warnungen und Ereignissen unterstützen, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service zur Risikoeindämmung der Operational Resiliency und der automatisierten IT-Vorschläge zur operativen Fehlerbehebung können Sie Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt.
+
+Risikoeindämmung ist ein Service für BlueXP, der auf Basis der Anleitung von NetApp Digital Advisor (ehemals Active IQ) Korrekturmaßnahmen für NetApp ONTAP-Cluster implementiert. Der Service erkennt Sicherheitslücken, z. B. Probleme mit der Firmware- und Softwarekonfiguration.
+
+
+
+== Vorteile der Nutzung des Operational Resiliency Service
+
+Der Operational Resiliency Service bietet folgende Vorteile:
+
+* Automatisierte Verfahren für Korrekturen im Cluster
+* Übersichtsansicht des Dashboards mit dem Status der einzelnen Risikobehebungen
+* Protokoll, mit dem Sie die verschiedenen durchgeführten Aktionen verfolgen können
+
+
+
+
+== Das können Sie mit dem Operational Resiliency Service erreichen
+
+Mit dem Operational Resiliency Service können Sie folgende Ziele erreichen:
+
+* Nutzen Sie automatisierte Workflows, mit denen Sie Risiken für Ihre Storage-Umgebung erkennen und Maßnahmen zur Minderung dieser Risiken ergreifen können.
+* Prüfen Sie operative Empfehlungen, z. B. Probleme im Zusammenhang mit Sicherheitslücken, und handeln Sie entsprechend.
+
+
+
+
+== Kosten
+
+NetApp berechnet Ihnen keine Kosten für die Nutzung des Service.
+
+
+
+== Unterstützte Umgebungen
+
+Der Operational Resiliency Service analysiert lokale NetApp ONTAP Cluster.

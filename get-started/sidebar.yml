@@ -1,0 +1,16 @@
+---
+section: get-started
+title: Los geht's
+entries:
+- title: Informieren Sie sich über den Operational Resiliency Service
+  url: "/get-started/intro.html"
+- title: Voraussetzungen
+  url: "/get-started/prerequisites.html"
+- title: Schnellstart
+  url: "/get-started/quick-start.html"
+- title: Richten Sie den Operational Resiliency Service ein
+  url: "/get-started/setup.html"
+- title: Greifen Sie auf den Service von BlueXP zu
+  url: "/get-started/login.html"
+- title: Häufig gestellte Fragen
+  url: "/get-started/faq.html"

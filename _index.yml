@@ -1,0 +1,41 @@
+---
+indexpage:
+  lead: Operational Resiliency ist eine Kategorie von Services, die Sie bei der Analyse
+    von Warnungen und Ereignissen unterstützen, um den Zustand, die Uptime und die
+    Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service
+    zur Risikoeindämmung der Operational Resiliency und der automatisierten IT-Vorschläge
+    zur operativen Fehlerbehebung können Sie Korrekturmaßnahmen implementieren, bevor
+    es zu einem Ausfall oder einem Ausfall kommt.
+  tiles:
+  - title: Los geht's
+    links:
+    - title: Informieren Sie sich über den Operational Resiliency Service
+      url: "/get-started/intro.html"
+    - title: Was ist neu
+      url: "/release-notes/whats-new.html"
+    - title: Schnellstart
+      url: "/get-started/quick-start.html"
+    - title: Voraussetzungen
+      url: "/get-started/prerequisites.html"
+    - title: Melden Sie sich beim Service für BlueXP an
+      url: "/get-started/login.html"
+    - title: Häufig gestellte Fragen
+      url: "/get-started/faq.html"
+  - title: Nutzen Sie den Service Operational Resiliency
+    links:
+    - title: Überprüfung und Behebung von Sicherheitsproblemen
+      url: "/use/remediate-overview.html"
+    - title: Automatische Behebung von Fehlern
+      url: "/use/remediate-auto.html"
+    - title: Beheben von Problemen mit einem Ansible-Playbook
+      url: "/use/remediate-ansible.html"
+    - title: Ermitteln Sie den Status der Risikoeindämmung
+      url: "/use/remediate-status.html"
+  - title: Blogs und Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Cloud Tiering Blog
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: Cloud-Webinare
+      url: https://bluexp.netapp.com/events

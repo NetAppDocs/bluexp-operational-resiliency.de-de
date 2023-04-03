@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-overview.html 
+keywords: operational resiliency, remediate, risk remediation, security risk 
+summary: Der NetApp BlueXP Operational Resiliency-Service nutzt KI zum ermitteln von Sicherheitsrisiken. 
+---
+= Überprüfung und Behebung von Sicherheitsrisiken
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Mit dem Service für betriebliche Ausfallsicherheit können Sie Sicherheitsrisiken im Zusammenhang mit Firmware-Problemen prüfen und Korrekturmaßnahmen implementieren.
+
+Empfehlungen werden auf System- oder Node-Ebene gegeben.
+
+Nach der Risikoüberprüfung haben Sie zwei Möglichkeiten, diese Risiken zu beseitigen:
+
+* Lassen Sie den Service die Problembehebung ausführen, wodurch das Problem für Sie behoben wird.
+* Laden Sie ein Ansible Playbook herunter, ein Open-Source-Implementierungssystem, mit dem Sie Konfigurationsaufgaben ausführen und die im Playbook vorgeschlagenen Aktionen ausführen können.
+
+
+Mit dem Operational Resiliency Service können Sie folgende Ziele erreichen:
+
+* link:../use/remediate-review.html["Überprüfen Sie Sicherheitsrisiken"]
+* link:../use/remediate-auto.html["Automatische Korrektur"]
+* link:../use/remediate-ansible.html["Optimieren mit einem Ansible Playbook"]
+* link:../use/remediate-status.html["Ermitteln Sie den Status der Risikoeindämmung"]
+

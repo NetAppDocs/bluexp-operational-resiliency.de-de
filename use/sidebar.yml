@@ -1,0 +1,14 @@
+---
+section: use
+title: Nutzen Sie den Service Operational Resiliency
+entries:
+- title: Überprüfung und Behebung von Sicherheitsproblemen
+  url: "/use/remediate-overview.html"
+- title: Überprüfen Sie Sicherheitsprobleme
+  url: "/use/remediate-review.html"
+- title: Automatische Behebung von Fehlern
+  url: "/use/remediate-auto.html"
+- title: Beheben von Problemen mit einem Ansible-Playbook
+  url: "/use/remediate-ansible.html"
+- title: Ermitteln Sie den Status der Problembehebung
+  url: "/use/remediate-status.html"

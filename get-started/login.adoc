@@ -14,7 +14,7 @@ summary: Einstieg in den Operational Resiliency-Service durch Zugriff auf den Se
 [role="lead"]
 Sie können den Operational Resiliency-Service nutzen, indem Sie sich bei NetApp BlueXP anmelden.
 
-Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"].
+Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
 
 .Schritte
 . Öffnen Sie einen Webbrowser, und rufen Sie den auf https://console.bluexp.netapp.com/["BlueXP-Konsole"].

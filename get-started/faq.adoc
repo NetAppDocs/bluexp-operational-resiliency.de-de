@@ -20,7 +20,7 @@ Diese FAQ kann Ihnen helfen, wenn Sie nur nach einer schnellen Antwort auf eine 
 
 *Wie sieht die Operational Resiliency-URL von BlueXP aus?*
 
-Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.netapp.com/[]
+Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
 
 

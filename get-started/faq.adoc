@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: operational resiliency faq, risk remediation frequently asked questions 
 summary: Diese FAQ kann Ihnen helfen, wenn Sie nur nach einer schnellen Antwort auf eine Frage suchen. 
 ---
-= Häufig gestellte Fragen zum Service Operational Resiliency
+= Häufig gestellte Fragen zum Service zur betrieblichen Ausfallsicherheit
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,9 +16,9 @@ Diese FAQ kann Ihnen helfen, wenn Sie nur nach einer schnellen Antwort auf eine 
 
 
 
-== Zugriff auf den Service Operational Resiliency
+== Zugriff auf den Service zur betrieblichen Ausfallsicherheit
 
-*Wie sieht die Operational Resiliency-URL von BlueXP aus?*
+*Wie sieht die URL zur operativen Ausfallsicherheit von BlueXP aus?*
 
 Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
@@ -26,6 +26,6 @@ Geben Sie für die URL in einem Browser Folgendes ein: https://console.bluexp.ne
 
 == Lizenzierung
 
-*Benötigen Sie eine Lizenz für die Nutzung des Operational Resiliency Service?*
+*Sie benötigen eine Lizenz, um den Operational Resiliency Service nutzen zu können?*
 
 Eine NetApp Lizenzdatei (NetApp License File, NLF) ist nicht erforderlich.

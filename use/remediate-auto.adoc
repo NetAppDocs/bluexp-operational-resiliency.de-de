@@ -12,7 +12,7 @@ summary: Wenn Sie die Option „Korrektur beheben“ ausgewählt haben, kann der
 
 
 [role="lead"]
-Wenn Sie im BlueXP Operational Resiliency Service die Option *Korrigieren* ausgewählt haben, kann der Service die Problembehebung für Sie implementieren.
+Wenn Sie im BlueXP Service für betriebliche Ausfallsicherheit die Option *Korrigieren* ausgewählt haben, kann der Service die Problembehebung für Sie implementieren.
 
 .Schritte
 . Wählen Sie in der linken Navigationsleiste von BlueXP *Health* > *Operational Resiliency* > *Risk Remediation*.

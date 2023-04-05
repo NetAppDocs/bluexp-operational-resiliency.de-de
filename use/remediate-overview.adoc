@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-overview.html 
 keywords: operational resiliency, remediate, risk remediation, security risk 
-summary: Der NetApp BlueXP Operational Resiliency-Service nutzt KI zum ermitteln von Sicherheitsrisiken. 
+summary: Der Service für betriebliche Ausfallsicherheit von NetApp BlueXP nutzt KI zum Bestimmen von Sicherheitsrisiken. 
 ---
 = Überprüfung und Behebung von Sicherheitsrisiken
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: Der NetApp BlueXP Operational Resiliency-Service nutzt KI zum ermitteln
 
 
 [role="lead"]
-Mit dem Service für betriebliche Ausfallsicherheit können Sie Sicherheitsrisiken im Zusammenhang mit Firmware-Problemen prüfen und Korrekturmaßnahmen implementieren.
+Der Service für betriebliche Ausfallsicherheit ermöglicht es Ihnen, Sicherheitsrisiken im Zusammenhang mit Firmware-Problemen zu prüfen und Korrekturmaßnahmen zu implementieren.
 
 Empfehlungen werden auf System- oder Node-Ebene gegeben.
 

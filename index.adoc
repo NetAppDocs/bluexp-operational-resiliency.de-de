@@ -2,7 +2,7 @@
 layout: landing-page 
 sidebar: sidebar 
 permalink: index.html 
-summary: Operational Resiliency ist eine Kategorie von Services, die Sie bei der Analyse von Warnungen und Ereignissen unterstützen, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service zur Risikoeindämmung der Operational Resiliency und der automatisierten IT-Vorschläge zur operativen Fehlerbehebung können Sie Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt. 
+summary: Operational Resiliency ist ein Service, mit dem Sie Alarme und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt. 
 ---
 = Service für operative Ausfallsicherheit
 :hardbreaks:

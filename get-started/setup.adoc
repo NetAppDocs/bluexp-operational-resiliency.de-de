@@ -4,7 +4,7 @@ permalink: get-started/setup.html
 keywords: bluexp, operational resiliency, risk remediate 
 summary: Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, können Sie derzeit keine Aktion erforderlich auswählen und Erinnerungen für die erneute Prüfung nach 30, 60 oder 90 Tagen festlegen. 
 ---
-= Richten Sie den Operational Resiliency Service ein
+= Richten Sie den Service für betriebliche Ausfallsicherheit ein
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, kö
 
 
 [role="lead"]
-Der erste Schritt auf dem Weg zur Nutzung des Operational Resiliency-Service besteht darin, die Daten aus den Monitoring-Tools in Ihrer Umgebung verfügbar zu machen.
+Der erste Schritt auf dem Weg zur Nutzung des Service zur betrieblichen Ausfallsicherheit besteht darin, die Daten aus den Monitoring-Tools in Ihrer Umgebung verfügbar zu machen.
 
 Die Einrichtung des Dienstes umfasst die folgenden Schritte:
 
@@ -27,7 +27,7 @@ Die Einrichtung des Dienstes umfasst die folgenden Schritte:
 
 Ein BlueXP Connector verfügt über Zugangsdaten für NetApp ONTAP Machines, sodass der Service zur betrieblichen Ausfallsicherheit Sicherheitsrisiken erkennen und Korrekturmaßnahmen durchführen kann.
 
-Sie können einen Connector direkt in BlueXP erstellen und diesen Connector im Service Operational Resiliency verwenden. Sie können auch den Prozess der Betrachtung des Clusters starten und in der Mitte dieses Prozesses den Connector bereitstellen.
+Sie können einen Connector direkt in BlueXP erstellen und diesen Connector im Service für betriebliche Ausfallsicherheit verwenden. Sie können auch den Prozess der Betrachtung des Clusters starten und in der Mitte dieses Prozesses den Connector bereitstellen.
 
 Informationen zum Erstellen eines Connectors in BlueXP vor der Nutzung des Service finden Sie in der BlueXP Dokumentation, die in der Beschreibung beschrieben ist https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
 

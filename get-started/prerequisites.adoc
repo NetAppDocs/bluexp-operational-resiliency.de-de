@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
-summary: 'Erste Schritte mit der betrieblichen Ausfallsicherheit von BlueXP: Verifizieren Sie den Support für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser.' 
+summary: 'Erste Schritte mit dem BlueXP Service für betriebliche Ausfallsicherheit: Prüfen Sie einfach, ob Ihre Umgebung, Ihr Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser unterstützt.' 
 ---
 = Voraussetzungen für die betriebliche Ausfallsicherheit
 :hardbreaks:
@@ -22,5 +22,5 @@ Verweisen Sie auf BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin
 
 * Für den Service müssen alle Cluster von Digital Advisor (ehemals Digital Advisor von Active IQ) überwacht werden. Siehe https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor Dokumentation"^].
 * Sie müssen über die Zugangsdaten für die Cluster verfügen.
-* Es ist zwar keine Voraussetzung, aber hilfreich, wenn der BlueXP Connector vorhanden und aktiviert ist und das ONTAP System erkannt wird. Falls nicht, führt der Operational Resiliency-Service Sie durch diese Prozesse.
+* Es ist zwar keine Voraussetzung, aber hilfreich, wenn der BlueXP Connector vorhanden und aktiviert ist und das ONTAP System erkannt wird. Falls nicht, führt der Service zur betrieblichen Ausfallsicherheit Sie durch diese Prozesse.
 

@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
 summary: Starten Sie in wenigen Schritten mit dem NetApp BlueXP Service zur betrieblichen Ausfallsicherheit. 
 ---
-= Schnellstart für den Service zur betrieblichen Ausfallsicherheit
+= Schneller Einstieg in die Ausfallsicherheit von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Starten Sie in wenigen Schritten mit dem NetApp BlueXP Service zur betr
 
 
 [role="lead"]
-Hier erhalten Sie einen Überblick über die Schritte, die für den Einstieg in den NetApp BlueXP Service zur betrieblichen Ausfallsicherheit erforderlich sind. Die Links in den einzelnen Schritten führen zu einer Seite, die weitere Details enthält.
+Hier erhalten Sie einen Überblick über die Schritte, die für den Einstieg in die betriebliche Ausfallsicherheit von BlueXP erforderlich sind. Die Links in den einzelnen Schritten führen zu einer Seite, die weitere Details enthält.
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Eins"] Voraussetzungen prüfen
 [role="quick-margin-para"]

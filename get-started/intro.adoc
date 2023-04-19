@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/intro.html 
 keywords: how bluexp operational resiliency works, what is operational resiliency, bluexp 
-summary: Operational Resiliency ist ein Service, mit dem Sie Alarme und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge für die BETRIEBLICHE IT-Fehlerbehebung können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt. 
+summary: Die operative Ausfallsicherheit von BlueXP ist ein Service, mit dem Sie Alarme und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge für die BETRIEBLICHE IT-Fehlerbehebung können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt. 
 ---
-= Informieren Sie sich über den Operational Resiliency Service
+= Erfahren Sie mehr über die operative Ausfallsicherheit von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,15 +12,15 @@ summary: Operational Resiliency ist ein Service, mit dem Sie Alarme und Ereignis
 
 
 [role="lead"]
-Operational Resiliency ist ein Service, der Ihnen bei der Analyse von Warnmeldungen und Ereignissen hilft, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt.
+Die betriebliche Ausfallsicherheit von BlueXP ist ein Service, der Ihnen bei der Analyse von Warnmeldungen und Ereignissen hilft, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt.
 
-Bei diesem BlueXP Service werden die Korrekturmaßnahmen für NetApp ONTAP Cluster auf Basis der Anleitung von NetApp Digital Advisor (ehemals Active IQ) implementiert. Der Service erkennt Sicherheitslücken, z. B. Probleme mit der Firmware- und Softwarekonfiguration.
+Bei diesem BlueXP Service werden Korrekturmaßnahmen für NetApp ONTAP Cluster auf Basis der Anleitungen des digitalen Beraters (Active IQ) von BlueXP implementiert. Der Service erkennt Sicherheitslücken, z. B. Probleme mit der Firmware- und Softwarekonfiguration.
 
 
 
-== Vorteile des Service zur betrieblichen Ausfallsicherheit
+== Vorteile der betrieblichen Ausfallsicherheit von BlueXP
 
-Der Service zur betrieblichen Ausfallsicherheit bietet folgende Vorteile:
+Die betriebliche Ausfallsicherheit von BlueXP bietet folgende Vorteile:
 
 * Automatisierte Verfahren für Korrekturen im Cluster
 * Übersichtsansicht des Dashboards mit dem Status der einzelnen Risikobehebungen
@@ -29,7 +29,7 @@ Der Service zur betrieblichen Ausfallsicherheit bietet folgende Vorteile:
 
 
 
-== Das können Sie mit dem Operational Resiliency Service erreichen
+== Was Sie mit der betrieblichen Ausfallsicherheit von BlueXP erreichen können
 
 Mit dem Operational Resiliency Service können Sie folgende Ziele erreichen:
 
@@ -47,4 +47,4 @@ NetApp berechnet Ihnen keine Kosten für die Nutzung des Service.
 
 == Unterstützte Umgebungen
 
-Der Service für betriebliche Ausfallsicherheit analysiert lokale NetApp ONTAP Cluster.
+Die betriebliche Ausfallsicherheit von BlueXP analysiert lokale NetApp ONTAP Cluster.

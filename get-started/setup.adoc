@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/setup.html 
 keywords: bluexp, operational resiliency, risk remediate 
-summary: Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, können Sie derzeit keine Aktion erforderlich auswählen und Erinnerungen für die erneute Prüfung nach 30, 60 oder 90 Tagen festlegen. 
+summary: Der erste Schritt auf dem Weg zur Nutzung des BlueXP Service für betriebliche Ausfallsicherheit besteht darin, Daten aus Monitoring-Tools in Ihrer Umgebung verfügbar zu machen. 
 ---
-= Richten Sie den Service für betriebliche Ausfallsicherheit ein
+= Ausfallsicherheit für den Betrieb von BlueXP einrichten
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Anstatt Kapazitäten hinzuzufügen oder kalte Daten zu verschieben, kö
 
 
 [role="lead"]
-Der erste Schritt auf dem Weg zur Nutzung des Service zur betrieblichen Ausfallsicherheit besteht darin, die Daten aus den Monitoring-Tools in Ihrer Umgebung verfügbar zu machen.
+Der erste Schritt auf dem Weg zur betrieblichen Ausfallsicherheit von BlueXP besteht darin, Daten über Monitoring-Tools in Ihrer Umgebung verfügbar zu machen.
 
 Die Einrichtung des Dienstes umfasst die folgenden Schritte:
 

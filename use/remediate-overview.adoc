@@ -12,7 +12,7 @@ summary: Der Service für betriebliche Ausfallsicherheit von NetApp BlueXP nutzt
 
 
 [role="lead"]
-Der Service für betriebliche Ausfallsicherheit ermöglicht es Ihnen, Sicherheitsrisiken im Zusammenhang mit Firmware-Problemen zu prüfen und Korrekturmaßnahmen zu implementieren.
+Die betriebliche Ausfallsicherheit von BlueXP ermöglicht es, Sicherheitsrisiken in Bezug auf Firmware-Probleme zu prüfen und Korrekturmaßnahmen zu implementieren.
 
 Empfehlungen werden auf System- oder Node-Ebene gegeben.
 

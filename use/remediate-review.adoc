@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-review.html 
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
-summary: Der Service zur Risikoeindämmung identifiziert Sicherheitsrisiken in Ihrem lokalen ONTAP-Cluster. 
+summary: Die betriebliche Ausfallsicherheit von BlueXP identifiziert Sicherheitsrisiken im lokalen ONTAP Cluster. 
 ---
 = Überprüfen Sie Sicherheitsrisiken
 :hardbreaks:
@@ -12,11 +12,11 @@ summary: Der Service zur Risikoeindämmung identifiziert Sicherheitsrisiken in I
 
 
 [role="lead"]
-Der Service zur Risikoeindämmung identifiziert Sicherheitsrisiken in Ihrem lokalen ONTAP-Cluster.
+Die betriebliche Ausfallsicherheit von BlueXP identifiziert Sicherheitsrisiken im lokalen ONTAP Cluster.
 
 Zur Risikoüberprüfung und zur automatisierten Problembehebung gehören die folgenden Prozesse:
 
-* Connector in BlueXP erstellen (falls noch keiner für den Service zur Risikoeindämmung vorhanden ist).
+* Connector in BlueXP erstellen (falls noch keiner für den Operational Resiliency Service vorhanden ist)
 * Ermitteln Sie den Cluster (falls für den Service noch kein Cluster vorhanden ist).
 * Führen Sie die Problembehebung aus, oder laden Sie ein Ansible-Playbook herunter.
 * Zeigen Sie den Status der Problembehebung an.

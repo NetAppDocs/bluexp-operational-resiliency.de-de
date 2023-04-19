@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Operational resiliency
+  name: BlueXP operational resiliency
   platform: cloud
   internal:
     pdf_enabled: true
@@ -10,7 +10,7 @@ settings:
   langs: de-de,us-en,ja-jp,ko-kr,zh-cn,zh-tw,es-es,fr-fr
 sidebar:
   entries:
-  - title: Dokumentation zur betrieblichen Ausfallsicherheit
+  - title: BlueXP Dokumentation zur betrieblichen Ausfallsicherheit
     url: "/index.html"
   - section: release-notes
   - section: get-started

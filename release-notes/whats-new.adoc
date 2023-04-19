@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
-summary: Informieren Sie sich über die Neuerungen im Operational Resiliency Service. 
+summary: Erfahren Sie mehr über die Neuerungen bei der betrieblichen Ausfallsicherheit von BlueXP. 
 ---
 = Was ist neu
 :hardbreaks:
@@ -12,14 +12,14 @@ summary: Informieren Sie sich über die Neuerungen im Operational Resiliency Ser
 
 
 [role="lead"]
-Informieren Sie sich über die Neuerungen im Operational Resiliency Service.
+Erfahren Sie mehr über die Neuerungen bei der betrieblichen Ausfallsicherheit von BlueXP.
 
 
 
 == Bis 02. April 2023
 
-Mithilfe des neuen Service für betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt.
+Mithilfe des neuen BlueXP Service für betriebliche Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem Ausfall oder einem Ausfall kommt.
 
 Operational Resiliency ist ein Service, mit dem Sie Alarme und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance von Services und Lösungen aufrechtzuerhalten.
 
-link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["Erfahren Sie mehr über diesen neuen Service"].
+link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["Erfahren Sie mehr über die betriebliche Ausfallsicherheit von BlueXP"].

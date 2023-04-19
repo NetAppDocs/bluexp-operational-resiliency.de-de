@@ -4,7 +4,7 @@ permalink: get-started/login.html
 keywords: bluexp login, risk remediation log in, operational resiliency 
 summary: Der Service für operative Ausfallsicherheit ist ein Einstieg in den Service in BlueXP. 
 ---
-= Zugriff auf den Service für betriebliche Ausfallsicherheit in BlueXP
+= Zugriff auf die betriebliche Ausfallsicherheit von BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: Der Service für operative Ausfallsicherheit ist ein Einstieg in den Se
 
 
 [role="lead"]
-Sie können den Service für operative Ausfallsicherheit nutzen, indem Sie sich bei NetApp BlueXP anmelden.
+Sie können die betriebliche Ausfallsicherheit von BlueXP nutzen, indem Sie sich bei NetApp BlueXP anmelden.
 
 Zur Anmeldung bei BlueXP können Sie Ihre Zugangsdaten für die NetApp Support Website nutzen oder sich mithilfe Ihrer E-Mail und eines Passworts für eine NetApp Cloud-Anmeldung anmelden. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^].
 

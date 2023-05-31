@@ -29,7 +29,7 @@ Ein BlueXP Connector verfügt über Zugangsdaten für NetApp ONTAP Machines, sod
 
 Sie können einen Connector direkt in BlueXP erstellen und diesen Connector im Service für betriebliche Ausfallsicherheit verwenden. Sie können auch den Prozess der Betrachtung des Clusters starten und in der Mitte dieses Prozesses den Connector bereitstellen.
 
-Informationen zum Erstellen eines Connectors in BlueXP vor der Nutzung des Service finden Sie in der BlueXP Dokumentation, die in der Beschreibung beschrieben ist https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
+Informationen zum Erstellen eines Connectors in BlueXP vor der Nutzung des Service finden Sie in der BlueXP Dokumentation, die in der Beschreibung beschrieben ist https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
 
 
 
@@ -37,4 +37,4 @@ Informationen zum Erstellen eines Connectors in BlueXP vor der Nutzung des Servi
 
 Im Rahmen der Einrichtung werden der Cluster-Name, die IP, der Benutzername und das Passwort in BlueXP ermittelt.
 
-Anweisungen hierzu finden Sie in der BlueXP Dokumentation, in der es erläutert wird https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Identifikation des Clusters"^].
+Anweisungen hierzu finden Sie in der BlueXP Dokumentation, in der es erläutert wird https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["Identifikation des Clusters"^].

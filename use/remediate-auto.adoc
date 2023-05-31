@@ -25,11 +25,11 @@ Je nach Problem werden Anweisungen angezeigt. Einige Optionen auf dieser Seite w
 +
 ** Wenn ein Connector nicht vorhanden ist oder noch nicht aktiviert ist, zeigt der Dienst die Seite Connector erstellen an, auf der Sie den Connector erstellen können. Wenn der Connector vorhanden, aber nicht aktiv ist, müssen Sie ihn im Cloud-Provider-Dienst aktivieren.
 +
-Weitere Informationen finden Sie in der BlueXP Dokumentation, die hier beschrieben wird https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
+Weitere Informationen finden Sie in der BlueXP Dokumentation, die hier beschrieben wird https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie einen Konnektor"^].
 
 ** Wenn kein Cluster vorhanden ist, zeigt der Service eine Seite an, auf der Sie das Cluster identifizieren.
 +
-Weitere Informationen finden Sie in der BlueXP Dokumentation https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Identifikation des Clusters"^].
+Weitere Informationen finden Sie in der BlueXP Dokumentation https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["Identifikation des Clusters"^].
 
 
 

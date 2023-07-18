@@ -16,19 +16,19 @@ Hier erhalten Sie einen Überblick über die Schritte, die für den Einstieg in 
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Eins"] Voraussetzungen prüfen
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt"^].
+link:../get-started/prerequisites.html["Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Zwei"] Richten Sie den Service für betriebliche Ausfallsicherheit ein
 [role="quick-margin-para"]
-link:../get-started/setup.html["Führen Sie die Schritte zum Einrichten des Dienstes aus"^].
+link:../get-started/setup.html["Führen Sie die Schritte zum Einrichten des Dienstes aus"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Drittens"] Was kommt als Nächstes?
 [role="quick-margin-para"]
 Nachdem Sie den Service eingerichtet haben, können Sie folgende Schritte als Nächstes Unternehmen.
 
 [role="quick-margin-list"]
-* link:../use/remediate-overview.html["Überprüfung und Behebung von Sicherheitsrisiken"^].
-* link:../use/remediate-auto.html["Automatische Korrektur"^].
-* link:../use/remediate-ansible.html["Abhilfe mit einem Ansible-Playbook"^].
-* link:../use/remediate-status.html["Ermitteln Sie den Status der Risikoeindämmung"^].
+* link:../use/remediate-overview.html["Überprüfung und Behebung von Sicherheitsrisiken"].
+* link:../use/remediate-auto.html["Automatische Korrektur"].
+* link:../use/remediate-ansible.html["Abhilfe mit einem Ansible-Playbook"].
+* link:../use/remediate-status.html["Ermitteln Sie den Status der Risikoeindämmung"].
 

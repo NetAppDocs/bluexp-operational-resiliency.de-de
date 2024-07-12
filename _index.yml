@@ -1,5 +1,13 @@
 ---
 indexpage:
+  title: Dokumentation zu BlueXP für betriebliche Ausfallsicherheit
+  summary: Die operative Ausfallsicherheit von BlueXP ist ein Service, mit dem Sie
+    Alarme und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance
+    von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche
+    Ausfallsicherheit und seiner automatisierten Vorschläge zur Behebung DES IT-Betriebsrisikos
+    können Sie vorgeschlagene Korrekturmaßnahmen implementieren, bevor es zu einem
+    Ausfall oder einem Ausfall kommt.
+  keywords: operational resiliency, bluexp, cluster, ontap
   lead: Die operative Ausfallsicherheit von BlueXP ist ein Service, mit dem Sie Alarme
     und Ereignisse analysieren können, um den Zustand, die Uptime und die Performance
     von Services und Lösungen aufrechtzuerhalten. Mithilfe des Service für die betriebliche

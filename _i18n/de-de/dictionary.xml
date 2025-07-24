@@ -165,7 +165,6 @@
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Für den Support anmelden</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX für ONTAP</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Dateien</block>
-  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service für Google Cloud</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Übersicht über die Support-Registrierung</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Es gibt zwei Registrierungsformulare, um die Support-Berechtigung zu aktivieren:</block>
   <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Dies dient als Ihre einzige Support-Abonnement-ID für jeden Service in BlueXP. Jedes BlueXP-Abonnement für Support auf Kontoebene muss registriert werden.</block>
@@ -277,7 +276,6 @@
   <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
-  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
   <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Dies ist eine vom System generierte ID, die Ihrer E-Mail zugeordnet ist. Auf der Seite *NSS Management* können Sie Ihre E-Mail über anzeigen <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> Menü.</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Wenn Sie jemals Ihre Anmeldeinformationen aktualisieren müssen, gibt es im auch eine *Anmeldeinformationen aktualisieren*-Option <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> Menü.</block>
@@ -353,4 +351,6 @@
   <block id="5837045b4a274916acb6680b003d1c2b" category="paragraph">Bei diesem BlueXP -Service werden die Korrekturmaßnahmen für NetApp ONTAP-Cluster auf Basis von Active IQ-Digital Advisor (auch als Digital Advisor bezeichnet) durchgeführt. Der Service erkennt Sicherheitslücken, z. B. Probleme mit der Firmware- und Softwarekonfiguration.</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Digital Advisor Dokumentation</block>
   <block id="d2a40e1969d512b879525670f7f544d5" category="list-text">Der Service erfordert, dass alle Cluster von Digital Advisor überwacht werden. Dies erfordert, dass AutoSupport auf dem Asset aktiviert ist. Siehe<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
 </blocks>
